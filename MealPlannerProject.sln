@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MealPlannerBackendApi", "MealPlannerBackendApi\MealPlannerBackendApi.csproj", "{A1C96611-5C95-494D-9EB1-D2E769BE3CA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MealPlannerBackendTests", "MealPlannerBackendTests\MealPlannerBackendTests.csproj", "{A1B2C3D4-E5F6-47A8-B9C1-1234567890AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ADFDF94C-6FC2-47D3-98B3-B4A21150503D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C96611-5C95-494D-9EB1-D2E769BE3CA4}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{A1C96611-5C95-494D-9EB1-D2E769BE3CA4}.Debug|Any CPU.Build.0 = Debug|x64
+		{A1C96611-5C95-494D-9EB1-D2E769BE3CA4}.Debug|x64.ActiveCfg = Debug|x64
+		{A1C96611-5C95-494D-9EB1-D2E769BE3CA4}.Debug|x64.Build.0 = Debug|x64
+		{A1C96611-5C95-494D-9EB1-D2E769BE3CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C96611-5C95-494D-9EB1-D2E769BE3CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C96611-5C95-494D-9EB1-D2E769BE3CA4}.Release|x64.ActiveCfg = Release|Any CPU
+		{A1C96611-5C95-494D-9EB1-D2E769BE3CA4}.Release|x64.Build.0 = Release|Any CPU
+		{A1B2C3D4-E5F6-47A8-B9C1-1234567890AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B2C3D4-E5F6-47A8-B9C1-1234567890AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B2C3D4-E5F6-47A8-B9C1-1234567890AB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A1B2C3D4-E5F6-47A8-B9C1-1234567890AB}.Debug|x64.Build.0 = Debug|Any CPU
+		{A1B2C3D4-E5F6-47A8-B9C1-1234567890AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B2C3D4-E5F6-47A8-B9C1-1234567890AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B2C3D4-E5F6-47A8-B9C1-1234567890AB}.Release|x64.ActiveCfg = Release|Any CPU
+		{A1B2C3D4-E5F6-47A8-B9C1-1234567890AB}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95A1CC3E-82CB-40C7-883B-21953BAE2336}
+	EndGlobalSection
+EndGlobal
